@@ -1,0 +1,11 @@
+9
+A, 1001, Tran Kim Hieu, 9315, 0905076324, 29/01/2003, nam, quang nam, 4, 100000
+A, 1002, Nguyen Binh Minh, 9315, 0905076982, 29/01/2003, nam, quang nam, 5, 100000
+B, 1003, Pham Dinh Ha, 9315, 0905076357, 29/01/2003, nam, quang nam, 6
+B, 1004, Thai Khac Duoc, 9315, 0998176324, 29/01/2003, nam, quang nam, 2
+C, 1005, Bui Tuan Anh, 9315, 0978376324, 29/01/2003, nam, quang nam, 3
+C, 1006, Le Minh Duy, 9315, 0905070934, 29/01/2003, nam, quang nam, 4
+C, 1007, Nguyen Duc Dung, 9315, 0905023424, 29/01/2003, nam, quang nam, 7
+D, 1008, Nguyen Thi Thu Ha, 9315, 0905076675, 29/01/2003, nam, quang nam, 4
+D, 1009, Vo Minh Huy, 9315, 0908346324, 29/01/2003, nam, quang nam, 5
+

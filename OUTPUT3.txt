@@ -1,0 +1,12 @@
+
+ thong tin nhan vien co ma can tim la : Id: 1001
+Name: Tran Kim Hieu
+CCCD: 9315
+SDT: 905076324
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien quan ly
+he so luong:  4
+luong co ban: 100000
+tong luong: 400000

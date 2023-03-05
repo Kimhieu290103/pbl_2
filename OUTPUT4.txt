@@ -1,0 +1,124 @@
+
+ Thong tin nhan vien thu: 1
+Id: 1001
+Name: Tran Kim Hieu
+CCCD: 9315
+SDT: 905076324
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien quan ly
+he so luong:  4
+luong co ban: 100000
+tong luong: 400000
+
+ Thong tin nhan vien thu: 2
+Id: 1002
+Name: Nguyen Binh Minh
+CCCD: 9315
+SDT: 905076982
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien quan ly
+he so luong:  5
+luong co ban: 100000
+tong luong: 500000
+
+ Thong tin nhan vien thu: 3
+Id: 1234
+Name: terg
+CCCD: 0
+SDT: 0
+Date: 
+Gender: 
+Address: 
+Chuc vu: Nhan vien san xuat
+so san pham: 0
+luong:0
+
+ Thong tin nhan vien thu: 4
+Id: 1003
+Name: Pham Dinh Ha
+CCCD: 9315
+SDT: 905076357
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien san xuat
+so san pham: 6
+luong:300000
+
+ Thong tin nhan vien thu: 5
+Id: 1004
+Name: Thai Khac Duoc
+CCCD: 9315
+SDT: 998176324
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien san xuat
+so san pham: 2
+luong:100000
+
+ Thong tin nhan vien thu: 6
+Id: 1005
+Name: Bui Tuan Anh
+CCCD: 9315
+SDT: 978376324
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien van phong
+so nam kinh nghiem: 3
+luong: 3000
+
+ Thong tin nhan vien thu: 7
+Id: 1006
+Name: Le Minh Duy
+CCCD: 9315
+SDT: 905070934
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien van phong
+so nam kinh nghiem: 4
+luong: 4000
+
+ Thong tin nhan vien thu: 8
+Id: 1007
+Name: Nguyen Duc Dung
+CCCD: 9315
+SDT: 905023424
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien van phong
+so nam kinh nghiem: 7
+luong: 7000
+
+ Thong tin nhan vien thu: 9
+Id: 1008
+Name: Nguyen Thi Thu Ha
+CCCD: 9315
+SDT: 905076675
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien thuc tap
+thoi gian lam thu viec(thang): 4
+luong: 4000
+
+ Thong tin nhan vien thu: 10
+Id: 1009
+Name: Vo Minh Huy
+CCCD: 9315
+SDT: 908346324
+Date: 29/01/2003
+Gender: nam
+Address: quang nam
+Chuc vu: Nhan vien thuc tap
+thoi gian lam thu viec(thang): 5
+luong: 5000
+
+ Tong luong cong ty phai tra: 1323000.000000
